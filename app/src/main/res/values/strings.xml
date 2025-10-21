@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gamsung2</string>
+
+    <!-- Google Cloud Console에서 발급받은 키로 교체하세요 -->
+    <string name="google_maps_key">AIzaSyB59fGHU8I2z5g7x6IvYCUcah74eskuDlg</string>
+</resources>

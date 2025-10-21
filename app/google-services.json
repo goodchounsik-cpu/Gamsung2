@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744058634402",
+    "project_id": "ai-e870c16d",
+    "storage_bucket": "ai-e870c16d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744058634402:android:d36bfdbf4c66a1aafc57fb",
+        "android_client_info": {
+          "package_name": "com.gamsung2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzb8s7hiZdHZHT_EO25rnPBdSbNeN-ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

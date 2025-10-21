@@ -1,0 +1,12 @@
+[
+  { "id": "film_1", "name": "드라마 A 카페", "subtitle": "촬영지", "lat": 37.5665, "lon": 126.9780, "badge": "촬영지", "rating": 4.5 },
+  { "id": "film_2", "name": "영화 B 골목", "subtitle": "촬영지", "lat": 37.57,   "lon": 126.98,  "badge": "촬영지", "rating": 4.3 },
+  {
+    "id":"film_3",
+    "name":"OO 드라마 다리",
+    "lat":37.5, "lon":127.0,
+    "badge":"촬영지",
+    "titles":["OO 드라마", "OO Movie"],
+    "keywords":["로맨스","한강","다리"]
+  }
+]
