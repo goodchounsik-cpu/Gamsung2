@@ -1,3 +1,5 @@
+![Gamsung2 배너](docs/gamsung2_readme_banner.png)
+
 # Gamsung2
 
 안드로이드용 감성 지도/검색 앱(가칭). Jetpack Compose 기반으로 개발 중입니다.
@@ -20,6 +22,5 @@
 
 > 참고: `local.properties`, 로그 파일 등은 `.gitignore`로 제외되어 있습니다.
 
-## 폴더 구조(요약)
 ## 스크린샷
-<img src="docs/screenshot-home.png" width="320" />
+<img src="docs/screenshot-home.png" width="360" />
